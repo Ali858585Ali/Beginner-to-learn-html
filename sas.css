@@ -1,0 +1,94 @@
+body{
+    font-family:'Arial',sans-serif;
+    background-color:rgb(161, 148, 148);
+    text-align: center;
+}
+#ali{
+    max-width: 960px;
+    margin:0 auto;
+    background-color:rgb(161, 148, 148);
+    padding:32px;
+    
+}
+
+header{
+     background-color: black;
+     height: 100px;
+     padding: 40;
+
+}
+
+
+
+header h1{
+    text-transform ;
+    text-align: center;
+    color:#fff;
+    line-height: 50px;
+}
+ header h2{
+    text-transform:small-caps ;
+    text-align: center;
+    color:#fff;
+    
+}
+
+.alia {
+    padding: 5px 0 5px 0;
+    text-align: center;
+    line-height: 32px;
+    background-color: rgb(26, 16, 16);
+
+}
+
+ul.alia{
+    margin: 15px;
+}
+
+.alia li{
+    display:inline;
+    padding:0 10px 0 10px;
+    font-size:16px;
+
+}
+
+.alia a {
+    text-decoration: none;
+    color:#fff;
+    padding:8px;
+font-variant: small-caps;
+
+
+}
+
+.a{ 
+text-align:center;
+
+}
+
+
+.s{
+text-align: center;
+
+
+}
+
+.d{
+    text-align: center;
+}
+
+.f{
+text-align: center;
+border: solid orangered 3px;
+margin: 100px;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    line-height: 32px;
+}
+.k{
+    display: block;
+
+}
